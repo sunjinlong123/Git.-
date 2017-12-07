@@ -53,7 +53,7 @@
 		C5B148781FD8D63200AEEF05 /* NewProductUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewProductUITests.m; sourceTree = "<group>"; };
 		C5B1487A1FD8D63200AEEF05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C5B148861FD8E45E00AEEF05 /* Person.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person.h; sourceTree = "<group>"; };
-		C5B148871FD8E45E00AEEF05 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person.m; sourceTree = "<group>"; };
+		C5B148871FD8E45E00AEEF05 /* Person.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; name = Person.m; path = "../../../../../../../../../Users/sunjinlong/Desktop/Git.代码本地仓库/NewProduct/NewProduct/Person.m"; sourceTree = SDKROOT; usesTabs = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
